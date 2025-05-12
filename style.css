@@ -5,14 +5,28 @@ body {
   align-items: center;       /* Centra horizontalmente */
   min-height: 100vh;
   margin: 0;
+  
 }
 
 body{
+  
  background-color: aquamarine;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
+
+#inicio{
+  background-image: url(b2ap3_large_turis.jpg);
+}
+
+#primera{
+  background-color: aquamarine;
+}
+#DESTINOS{
+  background-color: lightcyan;
+}
+
 
 body {
   background-color: whitesmoke;
